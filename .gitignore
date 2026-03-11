@@ -1,0 +1,14 @@
+# Local Server data
+/server/
+
+# Project source code (managed by individual repositories)
+/projects/*
+!/projects/.gitkeep
+
+# Temporary/Cache files
+.gradle/
+build/
+*.log
+temp_gradle.json
+*.zip
+*.tmp
