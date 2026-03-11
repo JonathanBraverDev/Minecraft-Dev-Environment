@@ -1,11 +1,11 @@
-# Local Server data
-/server/
+# Workspace structure
+/plugins/*
+!/plugins/.gitkeep
 
-# Project source code (managed by individual repositories)
-/projects/*
-!/projects/.gitkeep
+/server/*
+!/server/.gitkeep
 
-# Temporary/Cache files
+# Gradle / Temporary files
 .gradle/
 build/
 *.log
