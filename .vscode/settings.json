@@ -1,3 +1,8 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "git.autoRepositoryDetection": true,
+    "git.scanRepositories": [
+        "plugins"
+    ],
+    "git.repositoryScanMaxDepth": 2
 }
