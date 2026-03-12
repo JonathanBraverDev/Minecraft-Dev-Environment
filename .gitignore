@@ -8,6 +8,7 @@
 # Gradle / Temporary files
 .gradle/
 build/
+bin/
 *.log
 temp_gradle.json
 *.zip
